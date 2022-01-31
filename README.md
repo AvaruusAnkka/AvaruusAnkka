@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AvaruusAnkka
-- 🌱 I’m currently learning java
+- 🌱 I’m currently programmer student
 
 <!---
 AvaruusAnkka/AvaruusAnkka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
